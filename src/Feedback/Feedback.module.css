@@ -1,0 +1,8 @@
+.feedback__buttons {
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.feedback__buttons:not(:last-child) {
+  margin-right: 10px;
+}
